@@ -8,3 +8,4 @@
 ![](https://rawgithub.com/fluidev/assets/master/badges/license/lgpl2.svg)
 ![](https://rawgithub.com/fluidev/assets/master/badges/license/mit.svg)
 ![](https://rawgithub.com/fluidev/assets/master/badges/license/mozilla.svg)
+![](https://rawgithub.com/fluidev/assets/master/badges/license/black.svg)
